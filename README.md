@@ -1,14 +1,14 @@
-<div align="center"><img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="baqir-repthon">
 
             
-### ⚡ نورتني ياحلو ⚡
+# ⚡ نورتني ياحلو ⚡
 
-### معلومات ريبثون 🙋🏻‍♂️
+# معلومات ريبثون 🙋🏻‍♂️
 
 ```python
-𝐍𝐀𝐌𝐄 = باقر 💖
-𝐈 𝐀𝐌 = 14 Yers Old
-𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = "🇮🇶"
+𝐍𝐀𝐌𝐄 = باقر - Baqir 💖
+𝐈 𝐀𝐌 = 15 Yers Old - ذو الخمسةَ عشر عاماً
+𝐂𝐎𝐔𝐍𝐓𝐑𝐘 = 🇮🇶 - Iraq - العراق
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/Repthon)
@@ -16,7 +16,7 @@
 
 <a href="https://t.me/Repthon"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Imteyazking01&label=Profile%20Views&color=red&style=flat-square" alt="CyberBoyAyush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rogerpq&label=Profile%20Views&color=red&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 - 😄𝐈 𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐆𝐈𝐓 & 𝐆𝐈𝐓𝐇𝐔𝐁
 - 🥰𝐏𝐘𝐓𝐇𝐎𝐍 𝐋𝐎𝐕𝐄𝐑
@@ -25,10 +25,10 @@
 
 <h4 align="center"><b>MY GITHUB STATS -💛</b></h4>
 
-![Repthon Git Stats](https://github-readme-stats.vercel.app/api?username=Imteyazking&include_all_commits=true&count_private=true&theme=highcontrast)
+![Repthon Git Stats](https://github-readme-stats.vercel.app/api?username=rogerpq&include_all_commits=true&count_private=true&theme=highcontrast)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imteyazking01&layout=compact&theme=radical)[account](https://github.com/rogerpq)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerpq&layout=compact&theme=radical)[account](https://github.com/rogerpq)
 
 
 ### Languages and Tools I Love ❤️
